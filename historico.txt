@@ -1,0 +1,7 @@
+El intengrante 1 crea el repositorio y da permisos al integrante 2 y 3.
+El integrante 1 crea las carpetas: /app/templates, web/css, web/js y web/images.
+El integrante 2 crea la base de datos y le pasa los datos necesarios al integrante 3.
+El integrante 2 añade el archivo Model.php a la carpeta /app.
+El integrante 3 con los datos que les ha dado el integrante 2 modifica el archivo Config.php.
+El integrante 3 sube los archivos: web/index.php, app/Controller.php y app/Config.php previamente configurado.
+El integrante 2 despliega el proyecto en su hosting mediante comandos git y ssh.
