@@ -1,0 +1,11 @@
+#Valoracion general del proyecto
+Consiste en desplegar una aplicacion web sencilla en un hosting compartido (cdmon) y trabajar en grupo para repartir el trabajo mediante github.
+
+##Aspectos positivos
+Coincidimos en que es una buena forma de trabajar en equipo y github ofrece muchas facilidades para poder tener todo el trabajo actualizado y disponible para todos los integrantes del grupo.
+Cdmon ofrece muchas posibilidades y opciones diferentes para posibles conexiones para el despliegue de aplicaciones y creacion de base de datos, etc.
+
+##Aspectos mejorables
+Cdmon es un hosting compartido por lo que es muy complicado acceder y subir archivos mediante los protocolos ssh o ftp debido a que recibe muchas peticiones y el servidor rechaza las conexiones.
+Coincidimos en que aun no tenemos experiencia suficiente para lidiar con los problemas que ocurren en una tarea como la que se nos ha asignado, por lo que lidiar con todos los problemas y errores
+que ocurren sobre todo con la parte de git se hace bastante pesado y frustrante.
