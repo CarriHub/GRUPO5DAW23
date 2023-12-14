@@ -5,3 +5,6 @@ El integrante 2 añade el archivo Model.php a la carpeta /app.
 El integrante 3 con los datos que les ha dado el integrante 2 modifica el archivo Config.php.
 El integrante 3 sube los archivos: web/index.php, app/Controller.php y app/Config.php previamente configurado.
 El integrante 2 despliega el proyecto en su hosting mediante comandos git y ssh.
+http://www.casto.com.mialias.net/alimentos52023/web/index.php
+Usuario:castoo164
+Contraseña:o367C11h
