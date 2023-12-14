@@ -1,0 +1,14 @@
+Instrucciones para la instalación:
+
+1. Crea la base de datos y comunicale al integrante 3 los datos que necesite para que cambie los parametros 
+en el archivo config.php
+2. Creamos la carpeta dedicada para el proyecto en /web
+2. Conéctate al servidor mediante SSH
+3. Ve a la carpeta del proyecto en el servidor a través de la terminal
+3. Clona el repositorio de GitHub en el servidor
+5. Inicia o reinicia tu aplicación
+
+Comandos utilizados en orden:
+
+git init
+git clone https://github.com/CarriHub/GRUPO5DAW23.git
